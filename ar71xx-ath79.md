@@ -66,7 +66,12 @@
 			<td>(ath79: WIP)</td>
 		</tr>
 		<tr>
-			<td rowspan="3">I-O DATA</td>
+			<td rowspan="4">I-O DATA</td>
+			<td>WN-AG300DGR</td>
+			<td>AR1022</td>
+			<td>(ath79: WIP)</td>
+		</tr>
+		<tr>
 			<td>WN-AC1167DGR</td>
 			<td>QCA9557</td>
 			<td>ath79</td>
