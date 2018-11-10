@@ -28,7 +28,7 @@
 			<td>WZR-450HP</td>
 			<td>AR7242</td>
 			<td>&#9675; (WZR-HP-G450H)</td>
-			<td>&#9675;</td>
+			<td>&#9675; (WZR-HP-G450H)</td>
 		</tr>
 		<tr>
 			<td>WZR-HP-AG300H</td>
