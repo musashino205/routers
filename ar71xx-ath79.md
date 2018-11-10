@@ -56,7 +56,7 @@
 			<td>ath79</td>
 		</tr>
 		<tr>
-			<td>WRC-1750GHBK2-C</td>
+			<td><s>WRC-1750GHBK2-C</s> 譲渡済</td>
 			<td>QCA9563</td>
 			<td>(ath79: WIP)</td>
 		</tr>
