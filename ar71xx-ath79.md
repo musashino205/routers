@@ -104,6 +104,13 @@
 			<td>&#10005;</td>
 			<td>&#9675;</td>
 		</tr>
+		<tr>
+			<td>NEC</td>
+			<td>WG800HP</td>
+			<td>QCA9563</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
+		</tr>
 	</tbody>
 </table>
 
