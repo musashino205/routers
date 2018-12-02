@@ -152,5 +152,12 @@
 			<td>&#10005;</td>
 			<td>&#9675;</td>
 		</tr>
+		<tr>
+			<td>MikroTik</td>
+			<td>RouterBoard 750GL</td>
+			<td>AR7242</td>
+			<td>&#9675;</td>
+			<td>&#10005;</td>
+		</tr>
 	</tbody>
 </table>
