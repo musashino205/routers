@@ -84,7 +84,7 @@
 			<td>WN-AG300DGR</td>
 			<td>AR1022</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 		</tr>
 		<tr>
 			<td>WN-AC1167DGR</td>
@@ -105,11 +105,18 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
+			<td>Logitec</td>
+			<td>LAN-W451NGR</td>
+			<td>AR7242</td>
+			<td>&#10005;</td>
+			<td>Private<br />(no plans to submit PR)</td>
+		</tr>
+		<tr>
 			<td>NEC</td>
 			<td>WG800HP</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 		</tr>
 	</tbody>
 </table>

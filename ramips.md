@@ -38,7 +38,7 @@
 			<td rowspan="3">ELECOM</td>
 			<td>WRC-733GHBK</td>
 			<td>MT7620A</td>
-			<td>ramips/mt7620</td>
+			<td>WIP (ramips/mt7620)</td>
 		</tr>
 		<tr>
 			<td>WRC-1167GHBK2-S</td>
