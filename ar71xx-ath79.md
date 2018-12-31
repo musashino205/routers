@@ -71,13 +71,13 @@
 			<td><s>WRC-1750GHBK2-C</s> 譲渡済</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 		</tr>
 		<tr>
 			<td>WRC-1750GHBK2-I</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 		</tr>
 		<tr>
 			<td rowspan="4">I-O DATA</td>
@@ -112,11 +112,17 @@
 			<td>Private<br />(no plans to submit PR)</td>
 		</tr>
 		<tr>
-			<td>NEC</td>
+			<td rowspan="2">NEC</td>
 			<td>WG800HP</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
 			<td>&#9675;</td>
+		</tr>
+		<tr>
+			<td>WR8750N</td>
+			<td>AR9344</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
 		</tr>
 	</tbody>
 </table>
