@@ -27,7 +27,7 @@
 		<tr>
 			<td>WXR-2533DHP</td>
 			<td>IPQ8064</td>
-			<td>WIP (ipq806x)</td>
+			<td>ipq806x</td>
 		</tr>
 		<tr>
 			<td>I-O DATA</td>
