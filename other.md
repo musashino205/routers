@@ -10,6 +10,7 @@
 			<th>Model</th>
 			<th>SoC</th>
 			<th>OpenWrt Support</th>
+			<th>target</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -17,28 +18,33 @@
 			<td rowspan="3">BUFFALO</td>
 			<td>WZR-900DHP</td>
 			<td>BCM47081A0</td>
+			<td>&#9675;</td>
 			<td>bcm53xx</td>
 		</tr>
 		<tr>
 			<td>WSR-1166DHP3</td>
 			<td>RTL8197F</td>
+			<td>&#10005;</td>
 			<td>None</td>
 		</tr>
 		<tr>
 			<td>WXR-2533DHP</td>
 			<td>IPQ8064</td>
+			<td>&#9675;</td>
 			<td>ipq806x</td>
 		</tr>
 		<tr>
 			<td>I-O DATA</td>
 			<td>WN-G300GR</td>
 			<td>RTL8198</td>
+			<td>&#10005;</td>
 			<td>None</td>
 		</tr>
 		<tr>
 			<td>NEC</td>
 			<td>WG2600HP</td>
 			<td>IPQ8064</td>
+			<td>&#9675;</td>
 			<td>ipq806x</td>
 		</tr>
 	</tbody>
