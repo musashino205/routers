@@ -40,10 +40,16 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="3">ELECOM</td>
+			<td rowspan="4">ELECOM</td>
 			<td>WRC-733GHBK</td>
 			<td>MT7620A</td>
 			<td>&#10005; (not official, private)</td>
+			<td>mt7620</td>
+		</tr>
+		<tr>
+			<td>WRC-1167GHBK2-I</td>
+			<td>MT7620A</td>
+			<td>WIP</td>
 			<td>mt7620</td>
 		</tr>
 		<tr>
@@ -59,11 +65,17 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="4">I-O DATA</td>
+			<td rowspan="6">I-O DATA</td>
 			<td>WN-G300DGR</td>
 			<td>RT3052F</td>
 			<td>&#10005; (not official, private)</td>
 			<td>rt305x</td>
+		</tr>
+		<tr>
+			<td>WN-AC733GR3</td>
+			<td>MT7620A</td>
+			<td>WIP</td>
+			<td>mt7620</td>
 		</tr>
 		<tr>
 			<td>WN-AC1167GR</td>
@@ -81,6 +93,12 @@
 			<td>WN-AX1167GR</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WNPR2600G</td>
+			<td>MT7621A</td>
+			<td>WIP</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
