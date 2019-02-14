@@ -80,7 +80,7 @@
 		<tr>
 			<td>WN-AC1167GR</td>
 			<td>MT7620A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7620</td>
 		</tr>
 		<tr>
