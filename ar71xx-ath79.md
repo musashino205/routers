@@ -103,7 +103,7 @@
 			<td>WN-AC1600DGR</td>
 			<td>QCA9557</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 		</tr>
 		<tr>
 			<td>WN-AC1600DGR2</td>
