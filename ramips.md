@@ -49,7 +49,7 @@
 		<tr>
 			<td>WRC-1167GHBK2-I</td>
 			<td>MT7620A</td>
-			<td>WIP</td>
+			<td>&#10005; (not official, private)</td>
 			<td>mt7620</td>
 		</tr>
 		<tr>
