@@ -120,19 +120,19 @@
 		</tr>
 		<tr>
 			<td rowspan="6">NEC</td>
-			<td>WR8750N</td>
+			<td>WR8750N (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
 			<td>WIP</td>
 		</tr>
 		<tr>
-			<td>WR9500N</td>
+			<td>WR9500N (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
 			<td>WIP</td>
 		</tr>
 		<tr>
-			<td>WG600HP</td>
+			<td>WG600HP (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
 			<td>WIP</td>
@@ -144,7 +144,7 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WG1400HP</td>
+			<td>WG1400HP (stock: NetBSD)</td>
 			<td>QCA9558</td>
 			<td>&#10005;</td>
 			<td>WIP</td>
@@ -198,7 +198,7 @@
 		</tr>
 		<tr>
 			<td>MikroTik</td>
-			<td>RouterBoard 750GL</td>
+			<td>RouterBoard 750GL (stock: RouterOS)</td>
 			<td>AR7242</td>
 			<td>&#9675;</td>
 			<td>&#10005;</td>
