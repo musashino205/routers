@@ -119,7 +119,7 @@
 			<td>Private<br />(no plans to submit PR)</td>
 		</tr>
 		<tr>
-			<td rowspan="4">NEC</td>
+			<td rowspan="6">NEC</td>
 			<td>WR8750N</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
@@ -142,6 +142,18 @@
 			<td>QCA9563</td>
 			<td>&#10005;</td>
 			<td>&#9675;</td>
+		</tr>
+		<tr>
+			<td>WG1400HP</td>
+			<td>QCA9558</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
+		</tr>
+		<tr>
+			<td>WG1200CR</td>
+			<td>QCA9563</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
 		</tr>
 	</tbody>
 </table>
