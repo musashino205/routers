@@ -65,11 +65,17 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="6">I-O DATA</td>
+			<td rowspan="7">I-O DATA</td>
 			<td>WN-G300DGR</td>
 			<td>RT3052F</td>
 			<td>&#10005; (not official, private)</td>
 			<td>rt305x</td>
+		</tr>
+		<tr>
+			<td>WN-G300R3</td>
+			<td>MT7620N</td>
+			<td>WIP</td>
+			<td>mt7620</td>
 		</tr>
 		<tr>
 			<td>WN-AC733GR3</td>
