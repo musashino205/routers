@@ -74,7 +74,7 @@
 		<tr>
 			<td>WN-G300R3</td>
 			<td>MT7620N</td>
-			<td>WIP</td>
+			<td>&#10005; (not official, private)</td>
 			<td>mt7620</td>
 		</tr>
 		<tr>
