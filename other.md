@@ -15,7 +15,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="3">BUFFALO</td>
+			<td rowspan="4">BUFFALO</td>
 			<td>WZR-900DHP</td>
 			<td>BCM47081A0</td>
 			<td>&#9675;</td>
@@ -26,6 +26,12 @@
 			<td>RTL8197F</td>
 			<td>&#10005;</td>
 			<td>None</td>
+		</tr>
+		<tr>
+			<td>WSR-2533DHP2</td>
+			<td>MT7622B</td>
+			<td>WIP</td>
+			<td>mediatek</td>
 		</tr>
 		<tr>
 			<td>WXR-2533DHP</td>
