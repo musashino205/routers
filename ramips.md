@@ -15,7 +15,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="4">BUFFALO</td>
+			<td rowspan="5">BUFFALO</td>
 			<td>WHR-G300N</td>
 			<td>RT3052F</td>
 			<td>&#9675;</td>
@@ -37,6 +37,12 @@
 			<td>WSR-1166DHP</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WSR-2533DHPL</td>
+			<td>MT7621A</td>
+			<td>WIP</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
