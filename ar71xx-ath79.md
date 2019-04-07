@@ -165,7 +165,7 @@
 			<td>WG1200CR</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 		</tr>
 	</tbody>
 </table>
