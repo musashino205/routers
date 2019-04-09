@@ -71,7 +71,7 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="7">I-O DATA</td>
+			<td rowspan="8">I-O DATA</td>
 			<td>WN-G300DGR</td>
 			<td>RT3052F</td>
 			<td>&#10005; (not official, private)</td>
@@ -105,6 +105,12 @@
 			<td>WN-AX1167GR</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WN-DX1167R</td>
+			<td>MT7621A</td>
+			<td>WIP</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
