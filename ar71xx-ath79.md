@@ -87,7 +87,7 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td rowspan="4">I-O DATA</td>
+			<td rowspan="5">I-O DATA</td>
 			<td>WN-AG300DGR</td>
 			<td>AR1022</td>
 			<td>&#10005;</td>
@@ -110,6 +110,12 @@
 			<td>QCA9557</td>
 			<td>&#10005;</td>
 			<td>&#9675;</td>
+		</tr>
+		<tr>
+			<td>WN-AC1600DGR3</td>
+			<td>QCA9557</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
 		</tr>
 		<tr>
 			<td>Logitec</td>
