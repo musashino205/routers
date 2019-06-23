@@ -47,10 +47,16 @@
 			<td>None</td>
 		</tr>
 		<tr>
-			<td>NEC</td>
+			<td rowspan="2">NEC</td>
 			<td>WG2600HP</td>
 			<td>IPQ8064</td>
 			<td>&#9675;</td>
+			<td>ipq806x</td>
+		</tr>
+		<tr>
+			<td>WG2600HP2</td>
+			<td>IPQ8064</td>
+			<td>WIP</td>
 			<td>ipq806x</td>
 		</tr>
 	</tbody>
