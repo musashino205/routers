@@ -115,7 +115,7 @@
 			<td>WN-AC1600DGR3</td>
 			<td>QCA9557</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>&#9675; (WN-AC1600DGR2)</td>
 		</tr>
 		<tr>
 			<td>Logitec</td>
