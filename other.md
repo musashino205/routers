@@ -15,6 +15,13 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>ASUS</td>
+			<td>Lyra mini (MAP-AC1300)</td>
+			<td>IPQ4018</td>
+			<td>pending</td>
+			<td>ipq40xx</td>
+		</tr>
+		<tr>
 			<td rowspan="4">BUFFALO</td>
 			<td>WZR-900DHP</td>
 			<td>BCM47081A0</td>
