@@ -49,7 +49,7 @@
 			<td rowspan="4">ELECOM</td>
 			<td>WRC-733GHBK</td>
 			<td>MT7620A</td>
-			<td>&#10005; (not official, private)</td>
+			<td>WIP</td>
 			<td>mt7620</td>
 		</tr>
 		<tr>
