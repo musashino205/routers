@@ -16,7 +16,7 @@
 	<tbody>
 		<tr>
 			<td>ASUS</td>
-			<td>Lyra mini (MAP-AC1300)</td>
+			<td><s>Lyra mini (MAP-AC1300)</s> 故障</td>
 			<td>IPQ4018</td>
 			<td>pending</td>
 			<td>ipq40xx</td>
