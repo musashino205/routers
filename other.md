@@ -66,5 +66,12 @@
 			<td>WIP</td>
 			<td>ipq806x</td>
 		</tr>
+		<tr>
+			<td rowspan="1">NETGEAR</td>
+			<td>R7800</td>
+			<td>IPQ8065</td>
+			<td>&#9675;</td>
+			<td>ipq806x</td>
+		</tr>
 	</tbody>
 </table>
