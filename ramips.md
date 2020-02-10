@@ -116,13 +116,13 @@
 		<tr>
 			<td>WN-AX1167GR2</td>
 			<td>MT7621A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
 			<td>WN-DX1167R</td>
 			<td>MT7621A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
