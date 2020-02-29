@@ -215,6 +215,13 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
+			<td>TP-Link</td>
+			<td>TL-R600VPN v4</td>
+			<td>QCA9563</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
+		</tr>
+		<tr>
 			<td>MikroTik</td>
 			<td>RouterBoard 750GL (stock: RouterOS)</td>
 			<td>AR7242</td>
