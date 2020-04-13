@@ -42,7 +42,7 @@
 		<tr>
 			<td>WSR-2533DHPL</td>
 			<td>MT7621A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
