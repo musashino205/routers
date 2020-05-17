@@ -46,7 +46,7 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="5">ELECOM</td>
+			<td rowspan="7">ELECOM</td>
 			<td>WRC-733GHBK</td>
 			<td>MT7620A</td>
 			<td>WIP</td>
@@ -65,9 +65,21 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
+			<td>WRC-1167GS2</td>
+			<td>MT7621A</td>
+			<td>WIP</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
 			<td>WRC-2533GST</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WRC-2533GST2</td>
+			<td>MT7621A</td>
+			<td>WIP</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
