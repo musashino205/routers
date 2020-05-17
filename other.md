@@ -22,7 +22,7 @@
 			<td>ipq40xx</td>
 		</tr>
 		<tr>
-			<td rowspan="4">BUFFALO</td>
+			<td rowspan="5">BUFFALO</td>
 			<td>WZR-900DHP</td>
 			<td>BCM47081A0</td>
 			<td>&#9675;</td>
@@ -45,6 +45,12 @@
 			<td>IPQ8064</td>
 			<td>&#9675;</td>
 			<td>ipq806x</td>
+		</tr>
+		<tr>
+			<td>WXR-5950AX12</td>
+			<td>IPQ8078</td>
+			<td>WIP</td>
+			<td>ipq807x</td>
 		</tr>
 		<tr>
 			<td>I-O DATA</td>
