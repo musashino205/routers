@@ -79,7 +79,7 @@
 		<tr>
 			<td>WRC-2533GST2</td>
 			<td>MT7621A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
