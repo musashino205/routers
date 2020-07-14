@@ -61,11 +61,17 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td rowspan="3">ELECOM</td>
+			<td rowspan="4">ELECOM</td>
 			<td>WRC-300GHBK2-I</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
 			<td>&#9675;</td>
+		</tr>
+		<tr>
+			<td>WRC-1750GHBK</td>
+			<td>QCA9558</td>
+			<td>&#10005;</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td><s>WRC-1750GHBK2-C</s> 譲渡済</td>
