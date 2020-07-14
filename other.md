@@ -67,7 +67,7 @@
 			<td>ipq806x</td>
 		</tr>
 		<tr>
-			<td>WG2600HP2</td>
+			<td><s>WG2600HP2</s> 譲渡済</td>
 			<td>IPQ8064</td>
 			<td>WIP</td>
 			<td>ipq806x</td>
