@@ -135,31 +135,31 @@
 			<td>WR8175N (stock: NetBSD)</td>
 			<td>AR9341</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td>WR8750N (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td>WR9500N (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td>WG600HP (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td>WG300HP (stock: NetBSD)</td>
 			<td>AR9342</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td>WG800HP</td>
@@ -171,7 +171,7 @@
 			<td>WG1400HP (stock: NetBSD)</td>
 			<td>QCA9558</td>
 			<td>&#10005;</td>
-			<td>WIP</td>
+			<td>Private<br>(no plans to submit PR)</td>
 		</tr>
 		<tr>
 			<td>WG1200CR</td>
