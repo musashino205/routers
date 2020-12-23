@@ -67,13 +67,13 @@
 		<tr>
 			<td>WRC-1167GS2</td>
 			<td>MT7621A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
 			<td>WRC-1167GST2</td>
 			<td>MT7621A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
