@@ -18,7 +18,7 @@
 			<td>ASUS</td>
 			<td><s>Lyra mini (MAP-AC1300)</s> 故障</td>
 			<td>IPQ4018</td>
-			<td>pending</td>
+			<td>stop</td>
 			<td>ipq40xx</td>
 		</tr>
 		<tr>
