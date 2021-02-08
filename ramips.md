@@ -46,7 +46,7 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="10">ELECOM</td>
+			<td rowspan="11">ELECOM</td>
 			<td>WRC-733GHBK</td>
 			<td>MT7620A</td>
 			<td>&#10005; (not official, private)</td>
@@ -89,6 +89,12 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
+			<td>WRC-2533GHBK-I</td>
+			<td>MT7621A</td>
+			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
 			<td>WRC-2533GST</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
@@ -107,7 +113,7 @@
 			<td>mt76x8</td>
 		</tr>
 		<tr>
-			<td rowspan="9">I-O DATA</td>
+			<td rowspan="10">I-O DATA</td>
 			<td>WN-G300DGR</td>
 			<td>RT3052F</td>
 			<td>&#10005; (not official, private)</td>
@@ -151,6 +157,12 @@
 		</tr>
 		<tr>
 			<td>WN-DX1167R</td>
+			<td>MT7621A</td>
+			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WN-DX1200GR</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
 			<td>mt7621</td>
