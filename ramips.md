@@ -114,9 +114,9 @@
 		</tr>
 		<tr>
 			<td rowspan="10">I-O DATA</td>
-			<td>WN-G300DGR</td>
+			<td><s>WN-G300DGR</s> 廃棄済</td>
 			<td>RT3052F</td>
-			<td>&#10005; (not official, private)</td>
+			<td>&#10005;</td>
 			<td>rt305x</td>
 		</tr>
 		<tr>
