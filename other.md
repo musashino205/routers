@@ -22,7 +22,7 @@
 			<td>ipq40xx</td>
 		</tr>
 		<tr>
-			<td rowspan="5">BUFFALO</td>
+			<td rowspan="6">BUFFALO</td>
 			<td>WZR-900DHP</td>
 			<td>BCM47081A0</td>
 			<td>&#9675;</td>
@@ -36,6 +36,12 @@
 		</tr>
 		<tr>
 			<td>WSR-2533DHP2</td>
+			<td>MT7622B</td>
+			<td>WIP</td>
+			<td>mediatek</td>
+		</tr>
+		<tr>
+			<td>WSR-3200AX4S</td>
 			<td>MT7622B</td>
 			<td>WIP</td>
 			<td>mediatek</td>
