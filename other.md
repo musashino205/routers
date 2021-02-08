@@ -85,5 +85,12 @@
 			<td>&#9675;</td>
 			<td>ipq806x</td>
 		</tr>
+		<tr>
+			<td>SONY</td>
+			<td>NCP-HG100</td>
+			<td>IPQ4019</td>
+			<td>WIP</td>
+			<td>ipq40xx</td>
+		</tr>
 	</tbody>
 </table>
