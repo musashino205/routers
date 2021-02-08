@@ -125,10 +125,10 @@
 		</tr>
 		<tr>
 			<td>Logitec</td>
-			<td>LAN-W451NGR</td>
+			<td><s>LAN-W451NGR</s> 廃棄済</td>
 			<td>AR7242</td>
 			<td>&#10005;</td>
-			<td>Private<br />(no plans to submit PR)</td>
+			<td>&#10005;</td>
 		</tr>
 		<tr>
 			<td rowspan="8">NEC</td>
