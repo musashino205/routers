@@ -37,7 +37,7 @@
 		<tr>
 			<td>WSR-2533DHP2</td>
 			<td>MT7622B</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mediatek</td>
 		</tr>
 		<tr>
@@ -73,9 +73,9 @@
 			<td>ipq806x</td>
 		</tr>
 		<tr>
-			<td><s>WG2600HP2</s> 譲渡済</td>
+			<td>WG2600HP2</td>
 			<td>IPQ8064</td>
-			<td>WIP</td>
+			<td>&#9675; (WG2600HP)<a href="https://github.com/musashino205/routers/issues/1#issuecomment-764398696" target="blank">*</a></td>
 			<td>ipq806x</td>
 		</tr>
 		<tr>
