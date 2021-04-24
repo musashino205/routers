@@ -123,5 +123,12 @@
 			<td>WIP</td>
 			<td>realtek</td>
 		</tr>
+		<tr>
+			<td rowspan="1">I-O DATA</td>
+			<td>BSH-G24MB</td>
+			<td>RTL8382M</td>
+			<td>WIP</td>
+			<td>realtek</td>
+		</tr>
 	</tbody>
 </table>
