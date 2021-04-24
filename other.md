@@ -22,17 +22,11 @@
 			<td>ipq40xx</td>
 		</tr>
 		<tr>
-			<td rowspan="6">BUFFALO</td>
+			<td rowspan="5">BUFFALO</td>
 			<td>WZR-900DHP</td>
 			<td>BCM47081A0</td>
 			<td>&#9675;</td>
 			<td>bcm53xx</td>
-		</tr>
-		<tr>
-			<td>WSR-1166DHP3</td>
-			<td>RTL8197F</td>
-			<td>&#10005;</td>
-			<td>None</td>
 		</tr>
 		<tr>
 			<td>WSR-2533DHP2</td>
@@ -64,13 +58,6 @@
 			<td>MT7622B</td>
 			<td>WIP</td>
 			<td>mediatek</td>
-		</tr>
-		<tr>
-			<td>I-O DATA</td>
-			<td>WN-G300GR</td>
-			<td>RTL8198</td>
-			<td>&#10005;</td>
-			<td>None</td>
 		</tr>
 		<tr>
 			<td rowspan="2">NEC</td>
@@ -129,6 +116,37 @@
 			<td>RTL8382M</td>
 			<td>WIP</td>
 			<td>realtek</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+
+## Unsupportable Devices
+
+<table>
+	<thead>
+		<tr class="active">
+			<th>Manuf.</th>
+			<th>Model</th>
+			<th>SoC</th>
+			<th>OpenWrt Support</th>
+			<th>target</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>BUFFALO</td>
+			<td>WSR-1166DHP3</td>
+			<td>RTL8197F</td>
+			<td>&#10005;</td>
+			<td>None</td>
+		</tr>
+		<tr>
+			<td>I-O DATA</td>
+			<td>WN-G300GR</td>
+			<td>RTL8198</td>
+			<td>&#10005;</td>
+			<td>None</td>
 		</tr>
 	</tbody>
 </table>
