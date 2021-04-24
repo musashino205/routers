@@ -117,6 +117,13 @@
 			<td>WIP</td>
 			<td>realtek</td>
 		</tr>
+		<tr>
+			<td rowspan="1">Panasonic</td>
+			<td>Switch-M24eG PN28240K</td>
+			<td>RTL8382M</td>
+			<td>Planning</td>
+			<td>realtek</td>
+		</tr>
 	</tbody>
 </table>
 <br>
