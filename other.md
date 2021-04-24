@@ -59,6 +59,13 @@
 			<td>ipq807x</td>
 		</tr>
 		<tr>
+			<td rowspan="1">ELECOM</td>
+			<td>WRC-X3200GST3</td>
+			<td>MT7622B</td>
+			<td>WIP</td>
+			<td>mediatek</td>
+		</tr>
+		<tr>
 			<td>I-O DATA</td>
 			<td>WN-G300GR</td>
 			<td>RTL8198</td>
