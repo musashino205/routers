@@ -40,13 +40,13 @@
 			<td>WZR-HP-G300NH</td>
 			<td>AR9132</td>
 			<td>&#9675;</td>
-			<td>STOP</td>
+			<td>&#9675;</td>
 		</tr>
 		<tr>
 			<td>WZR-HP-G301NH</td>
 			<td>AR9132</td>
 			<td>&#9675; (WZR-HP-G300NH)</td>
-			<td>STOP</td>
+			<td>&#9675; (WZR-HP-G300NH)</td>
 		</tr>
 		<tr>
 			<td>WZR-HP-G302H A1A0</td>
