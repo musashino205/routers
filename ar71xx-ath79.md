@@ -31,7 +31,7 @@
 			<td>&#9675; (WZR-HP-G450H)</td>
 		</tr>
 		<tr>
-			<td>WZR-HP-AG300H</td>
+			<td><s>WZR-HP-AG300H</s> 廃棄済</td>
 			<td>AR7161</td>
 			<td>&#9675;</td>
 			<td>&#9675;</td>
