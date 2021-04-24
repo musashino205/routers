@@ -101,3 +101,27 @@
 		</tr>
 	</tbody>
 </table>
+<br>
+
+## Switching Hub
+
+<table>
+	<thead>
+		<tr class="active">
+			<th>Manuf.</th>
+			<th>Model</th>
+			<th>SoC</th>
+			<th>OpenWrt Support</th>
+			<th>target</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="1">INABA</td>
+			<td>Abaniact AML2-17GP</td>
+			<td>RTL8382M</td>
+			<td>WIP</td>
+			<td>realtek</td>
+		</tr>
+	</tbody>
+</table>
