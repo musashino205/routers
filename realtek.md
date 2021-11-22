@@ -12,6 +12,13 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>APRESIA</td>
+			<td>ApresiaLightGS120GT-SS</td>
+			<td>RTL8382M</td>
+			<td>WIP</td>
+			<td>realtek</td>
+		</tr>
+		<tr>
 			<td rowspan="1">INABA</td>
 			<td>Abaniact AML2-17GP</td>
 			<td>RTL8382M</td>
