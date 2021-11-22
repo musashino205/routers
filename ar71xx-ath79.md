@@ -131,7 +131,7 @@
 			<td>&#10005;</td>
 		</tr>
 		<tr>
-			<td rowspan="8">NEC</td>
+			<td rowspan="9">NEC</td>
 			<td>WR8175N (stock: NetBSD)</td>
 			<td>AR9341</td>
 			<td>&#10005;</td>
@@ -172,6 +172,12 @@
 			<td>QCA9558</td>
 			<td>&#10005;</td>
 			<td>Private<br>(no plans to submit PR)</td>
+		</tr>
+		<tr>
+			<td>WF1200CR</td>
+			<td>QCA9563</td>
+			<td>&#10005;</td>
+			<td>&#9675;</td>
 		</tr>
 		<tr>
 			<td>WG1200CR</td>
