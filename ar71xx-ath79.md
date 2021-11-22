@@ -37,13 +37,13 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WZR-HP-G300NH</td>
+			<td><s>WZR-HP-G300NH</s> 廃棄済</td>
 			<td>AR9132</td>
 			<td>&#9675;</td>
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WZR-HP-G301NH</td>
+			<td><s>WZR-HP-G301NH</s> 廃棄済</td>
 			<td>AR9132</td>
 			<td>&#9675; (WZR-HP-G300NH)</td>
 			<td>&#9675; (WZR-HP-G300NH)</td>
