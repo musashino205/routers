@@ -22,7 +22,7 @@
 			<td rowspan="1">INABA</td>
 			<td>Abaniact AML2-17GP</td>
 			<td>RTL8382M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek</td>
 		</tr>
 		<tr>
