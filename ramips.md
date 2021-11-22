@@ -119,7 +119,7 @@
 			<td>mt76x8</td>
 		</tr>
 		<tr>
-			<td rowspan="11">I-O DATA</td>
+			<td rowspan="12">I-O DATA</td>
 			<td><s>WN-G300DGR</s> 廃棄済</td>
 			<td>RT3052F</td>
 			<td>&#10005;</td>
@@ -177,6 +177,12 @@
 			<td>WN-DEAX1800GR</td>
 			<td>MT7621A</td>
 			<td>WIP</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WN-DX2033GR</td>
+			<td>MT7621A</td>
+			<td>&#9675;</td>
 			<td>mt7621</td>
 		</tr>
 		<tr>
