@@ -26,10 +26,22 @@
 			<td>realtek</td>
 		</tr>
 		<tr>
-			<td rowspan="1">Panasonic</td>
+			<td rowspan="3">Panasonic</td>
+			<td>Switch-M8eG PN28080K</td>
+			<td>RTL8380M</td>
+			<td>WIP</td>
+			<td>realtek</td>
+		</tr>
+		<tr>
 			<td>Switch-M24eG PN28240K</td>
 			<td>RTL8382M</td>
-			<td>Planning</td>
+			<td>WIP</td>
+			<td>realtek</td>
+		</tr>
+		<tr>
+			<td>Switch-M48eG PN28480K</td>
+			<td>RTL8393M</td>
+			<td>WIP</td>
 			<td>realtek</td>
 		</tr>
 	</tbody>
