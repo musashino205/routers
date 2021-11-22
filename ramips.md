@@ -115,7 +115,7 @@
 		<tr>
 			<td>WRC-1167FS</td>
 			<td>MT7628A</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mt76x8</td>
 		</tr>
 		<tr>
