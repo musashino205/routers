@@ -89,3 +89,38 @@
 	</tbody>
 </table>
 <br>
+
+## NAS
+
+<table>
+	<thead>
+		<tr class="active">
+			<th>Manuf.</th>
+			<th>Model</th>
+			<th>SoC</th>
+			<th>OpenWrt Support</th>
+			<th>target</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="3">I-O DATA</td>
+			<td>HDL-A</td>
+			<td>88F6282</td>
+			<td>WIP</td>
+			<td>kirkwood</td>
+		</tr>
+		<tr>
+			<td>HDL2-A</td>
+			<td>88F6282</td>
+			<td>WIP</td>
+			<td>kirkwood</td>
+		</tr>
+		<tr>
+			<td>HDL2-AAX</td>
+			<td>88F6821</td>
+			<td>WIP</td>
+			<td>mvebu</td>
+		</tr>
+	</tbody>
+</table>
