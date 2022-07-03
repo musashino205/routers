@@ -56,7 +56,7 @@
 			<td rowspan="1">ELECOM</td>
 			<td>WRC-X3200GST3</td>
 			<td>MT7622B</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>mediatek</td>
 		</tr>
 		<tr>
