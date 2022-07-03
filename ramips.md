@@ -52,7 +52,7 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="12">ELECOM</td>
+			<td rowspan="13">ELECOM</td>
 			<td><s>WRC-733GHBK</s> 廃棄済</td>
 			<td>MT7620A</td>
 			<td>&#10005; (not official, private)</td>
@@ -102,6 +102,12 @@
 		</tr>
 		<tr>
 			<td>WRC-2533GHBK-I</td>
+			<td>MT7621A</td>
+			<td>&#9675;</td>
+			<td>mt7621</td>
+		</tr>
+		<tr>
+			<td>WRC-2533GS2</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
 			<td>mt7621</td>
