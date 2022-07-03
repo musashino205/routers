@@ -29,14 +29,14 @@
 			<td rowspan="1">I-O DATA</td>
 			<td>BSH-G24MB</td>
 			<td>RTL8382M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Panasonic</td>
 			<td>Switch-M8eG PN28080K</td>
 			<td>RTL8380M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
