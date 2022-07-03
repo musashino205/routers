@@ -81,7 +81,7 @@
 		</tr>
 		<tr>
 			<td>SONY</td>
-			<td>NCP-HG100</td>
+			<td>NCP-HG100/Cellular</td>
 			<td>IPQ4019</td>
 			<td>WIP</td>
 			<td>ipq40xx</td>
