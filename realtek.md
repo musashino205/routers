@@ -33,10 +33,16 @@
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
-			<td rowspan="3">Panasonic</td>
+			<td rowspan="4">Panasonic</td>
 			<td>Switch-M8eG PN28080K</td>
 			<td>RTL8380M</td>
 			<td>&#9675;</td>
+			<td>realtek/rtl838x</td>
+		</tr>
+		<tr>
+			<td>Switch-M24eG PN28160K</td>
+			<td>RTL8382M</td>
+			<td>WIP</td>
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
