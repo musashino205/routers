@@ -82,7 +82,7 @@
 		</tr>
 		<tr>
 			<td>I-O DATA</td>
-			<td>WN-G300GR</td>
+			<td><s>WN-G300GR</s> 廃棄済</td>
 			<td>RTL8198</td>
 			<td>&#10005;</td>
 			<td>None</td>
