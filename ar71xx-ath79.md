@@ -19,13 +19,13 @@
 	<tbody>
 		<tr>
 			<td rowspan="7">BUFFALO</td>
-			<td>WHR-G301N</td>
+			<td><s>WHR-G301N</s> 廃棄済</td>
 			<td>AR7240</td>
 			<td>&#9675;</td>
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WZR-450HP</td>
+			<td><s>WZR-450HP</s> 廃棄済</td>
 			<td>AR7242</td>
 			<td>&#9675; (WZR-HP-G450H)</td>
 			<td>&#9675; (WZR-HP-G450H)</td>
@@ -49,13 +49,13 @@
 			<td>&#9675; (WZR-HP-G300NH)</td>
 		</tr>
 		<tr>
-			<td>WZR-HP-G302H A1A0</td>
+			<td><s>WZR-HP-G302H A1A0</s> 廃棄済</td>
 			<td>AR7242</td>
 			<td>&#9675; (WZR-HP-G300NH2)</td>
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WZR-HP-G450H</td>
+			<td><s>WZR-HP-G450H</s></td>
 			<td>AR7242</td>
 			<td>&#9675;</td>
 			<td>&#9675;</td>
@@ -68,7 +68,7 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WRC-1750GHBK</td>
+			<td><s>WRC-1750GHBK</s> 廃棄済</td>
 			<td>QCA9558</td>
 			<td>&#10005;</td>
 			<td>Private<br>(no plans to submit PR)</td>
@@ -132,7 +132,7 @@
 		</tr>
 		<tr>
 			<td rowspan="9">NEC</td>
-			<td>WR8175N (stock: NetBSD)</td>
+			<td><s>WR8175N (stock: NetBSD)</s> 廃棄済</td>
 			<td>AR9341</td>
 			<td>&#10005;</td>
 			<td>Private<br>(no plans to submit PR)</td>
@@ -168,7 +168,7 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td>WG1400HP (stock: NetBSD)</td>
+			<td><s>WG1400HP (stock: NetBSD)</s> 廃棄済</td>
 			<td>QCA9558</td>
 			<td>&#10005;</td>
 			<td>Private<br>(no plans to submit PR)</td>
@@ -235,7 +235,7 @@
 		</tr>
 		<tr>
 			<td>MikroTik</td>
-			<td>RouterBoard 750GL (stock: RouterOS)</td>
+			<td><s>RouterBoard 750GL (stock: RouterOS)</s> 廃棄済</td>
 			<td>AR7242</td>
 			<td>&#9675;</td>
 			<td>&#10005;</td>
