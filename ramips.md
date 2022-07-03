@@ -34,7 +34,7 @@
 			<td>mt7620</td>
 		</tr>
 		<tr>
-			<td>WSR-1166DHP</td>
+			<td><s>WSR-1166DHP</s> 廃棄済</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
 			<td>mt7621</td>
@@ -47,13 +47,13 @@
 		</tr>
 		<tr>
 			<td rowspan="12">ELECOM</td>
-			<td>WRC-733GHBK</td>
+			<td><s>WRC-733GHBK</s> 廃棄済</td>
 			<td>MT7620A</td>
 			<td>&#10005; (not official, private)</td>
 			<td>mt7620</td>
 		</tr>
 		<tr>
-			<td>WRC-1167GHBK2-I</td>
+			<td><s>WRC-1167GHBK2-I</s> 廃棄済</td>
 			<td>MT7620A</td>
 			<td>&#10005; (not official, private)</td>
 			<td>mt7620</td>
@@ -126,7 +126,7 @@
 			<td>rt305x</td>
 		</tr>
 		<tr>
-			<td>WN-G300R3</td>
+			<td><s>WN-G300R3</s> 廃棄済</td>
 			<td>MT7620N</td>
 			<td>&#10005; (not official, private)</td>
 			<td>mt7620</td>
