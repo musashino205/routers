@@ -104,6 +104,13 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>BUFFALO</td>
+			<td>TS3400D</td>
+			<td>?</td>
+			<td>WIP</td>
+			<td>mvebu</td>
+		</tr>
+		<tr>
 			<td rowspan="3">I-O DATA</td>
 			<td>HDL-A</td>
 			<td>88F6282</td>
