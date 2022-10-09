@@ -42,19 +42,19 @@
 		<tr>
 			<td>Switch-M24eG PN28160K</td>
 			<td>RTL8382M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
 			<td>Switch-M24eG PN28240K</td>
 			<td>RTL8382M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
 			<td>Switch-M48eG PN28480K</td>
 			<td>RTL8393M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek/rtl839x</td>
 		</tr>
 	</tbody>
