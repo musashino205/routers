@@ -141,22 +141,22 @@
 			<td>WR8750N (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
-			<td>Private<br>(no plans to submit PR)</td>
+			<td><s>Private<br>(no plans to submit PR)</s><br>WIP</td>
 		</tr>
 		<tr>
 			<td>WR9500N (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
-			<td>Private<br>(no plans to submit PR)</td>
+			<td><s>Private<br>(no plans to submit PR)</s><br>WIP</td>
 		</tr>
 		<tr>
 			<td>WG600HP (stock: NetBSD)</td>
 			<td>AR9344</td>
 			<td>&#10005;</td>
-			<td>Private<br>(no plans to submit PR)</td>
+			<td><s>Private<br>(no plans to submit PR)</s><br>WIP</td>
 		</tr>
 		<tr>
-			<td>WG300HP (stock: NetBSD)</td>
+			<td><s>WG300HP (stock: NetBSD)</s> 廃棄済</td>
 			<td>AR9342</td>
 			<td>&#10005;</td>
 			<td>Private<br>(no plans to submit PR)</td>
@@ -168,10 +168,10 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td><s>WG1400HP (stock: NetBSD)</s> 廃棄済</td>
+			<td><s>WG1400HP (stock: NetBSD) 廃棄済</s> 再調達</td>
 			<td>QCA9558</td>
 			<td>&#10005;</td>
-			<td>Private<br>(no plans to submit PR)</td>
+			<td><s>Private<br>(no plans to submit PR)</s><br>WIP</td>
 		</tr>
 		<tr>
 			<td>WF1200CR</td>
