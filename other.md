@@ -104,14 +104,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td>BUFFALO</td>
-			<td>TS3400D</td>
-			<td>?</td>
-			<td>WIP</td>
-			<td>mvebu</td>
-		</tr>
-		<tr>
-			<td rowspan="3">I-O DATA</td>
+			<td rowspan="2">I-O DATA</td>
 			<td>HDL-A</td>
 			<td>88F6282</td>
 			<td>WIP</td>
@@ -122,12 +115,6 @@
 			<td>88F6282</td>
 			<td>WIP</td>
 			<td>kirkwood</td>
-		</tr>
-		<tr>
-			<td>HDL2-AAX</td>
-			<td>88F6821</td>
-			<td>WIP</td>
-			<td>mvebu</td>
 		</tr>
 	</tbody>
 </table>
