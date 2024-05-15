@@ -149,7 +149,7 @@
 			<td>&#10005;</td>
 		</tr>
 		<tr>
-			<td rowspan="9">NEC</td>
+			<td rowspan="10">NEC</td>
 			<td><s>WR8175N (stock: NetBSD)</s> 廃棄済</td>
 			<td>AR9341</td>
 			<td>&#10005;</td>
@@ -190,6 +190,12 @@
 			<td>QCA9558</td>
 			<td>&#10005;</td>
 			<td><s>Private<br>(no plans to submit PR)</s><br>WIP</td>
+		</tr>
+		<tr>
+			<td>WG1800HP2 (stock: NetBSD)</td>
+			<td>QCA9558</td>
+			<td>&#10005;</td>
+			<td>WIP</td>
 		</tr>
 		<tr>
 			<td>WF1200CR</td>
