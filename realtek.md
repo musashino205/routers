@@ -15,7 +15,7 @@
 			<td>APRESIA</td>
 			<td>ApresiaLightGS120GT-SS</td>
 			<td>RTL8382M</td>
-			<td>WIP</td>
+			<td>&#9675;</td>
 			<td>realtek/rtl838x</td>
 		</tr>
 		<tr>
