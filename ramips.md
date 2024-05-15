@@ -64,7 +64,7 @@
 			<td>mt7621</td>
 		</tr>
 		<tr>
-			<td rowspan="16">ELECOM</td>
+			<td rowspan="17">ELECOM</td>
 			<td>WMC-M1267GST2</td>
 			<td>MT7621A</td>
 			<td>&#9675;</td>
@@ -159,6 +159,12 @@
 			<td>MT7628A</td>
 			<td>&#9675;</td>
 			<td>mt76x8</td>
+		</tr>
+		<tr>
+			<td>WRC-X1800GS</td>
+			<td>MT7621A</td>
+			<td>WIP</td>
+			<td>mt7621</td>
 		</tr>
 		<tr>
 			<td rowspan="12">I-O DATA</td>
