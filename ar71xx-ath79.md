@@ -61,7 +61,25 @@
 			<td>&#9675;</td>
 		</tr>
 		<tr>
-			<td rowspan="4">ELECOM</td>
+			<td rowspan="7">ELECOM</td>
+			<td>WAB-S600-PS</td>
+			<td>QCA9557</td>
+			<td>&#10005;</td>
+			<td>&#9675;</td>
+		</tr>
+		<tr>
+			<td>WAB-S1167-PS</td>
+			<td>QCA9557</td>
+			<td>&#10005;</td>
+			<td>&#9675;</td>
+		</tr>
+		<tr>
+			<td>WAB-I1750-PS</td>
+			<td>QCA9558</td>
+			<td>&#10005;</td>
+			<td>&#9675;</td>
+		</tr>
+		<tr>
 			<td>WRC-300GHBK2-I</td>
 			<td>QCA9563</td>
 			<td>&#10005;</td>
