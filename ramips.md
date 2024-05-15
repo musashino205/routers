@@ -241,13 +241,13 @@
 		</tr>
 		<tr>
 			<td rowspan="2">Nexx</td>
-			<td>WT1520A</td>
+			<td><s>WT1520A</s> 廃棄済</td>
 			<td>RT5350</td>
 			<td>&#9675;</td>
 			<td>rt305x</td>
 		</tr>
 		<tr>
-			<td>WT3020H</td>
+			<td><s>WT3020H</s> 廃棄済</td>
 			<td>MT7620N</td>
 			<td>&#9675;</td>
 			<td>mt7620</td>
